@@ -10,5 +10,8 @@
 
 ### Настройки модуля
 
+- Выбор разрешенных типов загружаемых файлов;
+- Ограничение размера загружаемых файлов (в байтах);
+
 
 ![Иллюстрация к проекту](https://github.com/Alwongs/addon-profile-photo/blob/main/readme-images/settings.jpg)
