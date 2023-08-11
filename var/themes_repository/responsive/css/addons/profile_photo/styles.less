@@ -1,0 +1,47 @@
+
+@import "../../../../../backend/css/tygh/ui_base/attach_images.less";
+@import "../../../../../backend/css/tygh/ui_base/tooltips.less";
+@import "../../../../../backend/css/tygh/utils/image_upload.less";
+
+.no-image {
+    background-image: url('../../../media/images/addons/profile_photo/noimage.gif');
+    background-size: contain;
+}
+
+.icon-remove-sign {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-image: url('../../../media/images/addons/profile_photo/delete-icon.svg');
+    background-size: contain;
+}
+
+.attach-images {
+    .upload-box.clearfix {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        gap: 20px;
+        .image-wrap {
+            min-width: fit-content;
+        }
+        .image-upload {
+            margin-left: 0;
+        }
+    }     
+}
+
+.fileuploader {
+    .btn-group {
+        display: flex;
+    }
+    .btn {
+        border: 1px solid lightgrey;
+        display: block;
+        height: 28px;
+        line-height: 28px;
+        width: 90px;
+        text-align: center;
+    }    
+}

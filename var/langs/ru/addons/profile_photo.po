@@ -1,0 +1,78 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::profile_photo"
+msgid "Profile photo"
+msgstr "Фото профиля"
+
+msgctxt "Addons::description::profile_photo"
+msgid "Description (profile_photo)"
+msgstr "Устанавливает фото профиля в панели администратора и витрине"
+
+
+msgctxt "SettingsSections::profile_photo::new_section"
+msgid "New Section"
+msgstr "Новая секция"
+
+
+msgctxt "SettingsOptions::profile_photo::setting_ext_header"
+msgid "Permitted extensions"
+msgstr "Разрешенные типы файлов"
+
+
+msgctxt "SettingsOptions::profile_photo::setting_size_header"
+msgid "Size limit"
+msgstr "Максимальный размер файла"
+
+
+
+msgctxt "SettingsSections::profile_photo::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::profile_photo::jpg_ext_check"
+msgid "extension jpg"
+msgstr "JPG"
+
+msgctxt "SettingsOptions::profile_photo::jpeg_ext_check"
+msgid "extension jpeg"
+msgstr "JPEG"
+
+msgctxt "SettingsOptions::profile_photo::png_ext_check"
+msgid "extension png"
+msgstr "PNG"
+
+msgctxt "SettingsOptions::profile_photo::gif_ext_check"
+msgid "extension gif"
+msgstr "GIF"
+
+msgctxt "SettingsOptions::profile_photo::webp_ext_check"
+msgid "extension webp"
+msgstr "WEBP"
+
+msgctxt "SettingsOptions::profile_photo::ico_ext_check"
+msgid "extension ico"
+msgstr "ICO"
+
+
+msgctxt "SettingsOptions::profile_photo::file_size_limit"
+msgid "bite"
+msgstr "байт"
+
+
+
+
+msgctxt "Languages::text_not_allowed_to_upload_file_size"
+msgid "Text not allowed to upload file size"
+msgstr "Файлы с размером больше чем <b>[size] байт</b> не могут быть загружены"
+
+msgctxt "Languages::select_photo"
+msgid "Select photo"
+msgstr "Выбрать фото"
+
+msgctxt "Languages::avatar"
+msgid "Profile photo"
+msgstr "Фото профиля"

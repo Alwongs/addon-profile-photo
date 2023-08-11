@@ -1,0 +1,80 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::profile_photo"
+msgid "Profile photo"
+msgstr "Profile photo"
+
+msgctxt "Addons::description::profile_photo"
+msgid "Description (profile_photo)"
+msgstr "Set profile image in admin panel and frontstore"
+
+
+msgctxt "SettingsSections::profile_photo::general"
+msgid "General"
+msgstr "General"
+
+
+msgctxt "SettingsSections::profile_photo::new_section"
+msgid "New Section"
+msgstr "New Section"
+
+
+
+msgctxt "SettingsOptions::profile_photo::setting_ext_header"
+msgid "Permitted extensions"
+msgstr "Permitted extensions"
+
+
+msgctxt "SettingsOptions::profile_photo::setting_size_header"
+msgid "Size limit"
+msgstr "Size limit"
+
+
+
+msgctxt "SettingsOptions::profile_photo::jpg_ext_check"
+msgid "extension jpg"
+msgstr "JPG"
+
+msgctxt "SettingsOptions::profile_photo::jpeg_ext_check"
+msgid "extension jpeg"
+msgstr "JPEG"
+
+msgctxt "SettingsOptions::profile_photo::png_ext_check"
+msgid "extension png"
+msgstr "PNG"
+
+msgctxt "SettingsOptions::profile_photo::gif_ext_check"
+msgid "extension gif"
+msgstr "GIF"
+
+msgctxt "SettingsOptions::profile_photo::webp_ext_check"
+msgid "extension webp"
+msgstr "WEBP"
+
+msgctxt "SettingsOptions::profile_photo::ico_ext_check"
+msgid "extension ico"
+msgstr "ICO"
+
+
+msgctxt "SettingsOptions::profile_photo::file_size_limit"
+msgid "bite"
+msgstr "bite"
+
+
+
+
+msgctxt "Languages::text_not_allowed_to_upload_file_size"
+msgid "Text not allowed to upload file size"
+msgstr "File's size more than <b>[size] bite</b> can't be uploaded"
+
+msgctxt "Languages::select_photo"
+msgid "Select photo"
+msgstr "Select photo"
+
+msgctxt "Languages::avatar"
+msgid "Profile photo"
+msgstr "Profile photo"

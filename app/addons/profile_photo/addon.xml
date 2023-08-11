@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>profile_photo</id>
+    <version>1.0</version>
+    <priority>4294967294</priority>
+    <position>0</position>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <status>active</status>
+    <default_language>en</default_language>
+
+    <settings edition_type="ROOT">
+        <sections>
+
+            <section id="general">
+                <items id="setting_extension_list">
+                    <item id="setting_ext_header">
+                        <type>header</type>
+                    </item>
+
+                    <item id="jpg_ext_check">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                        <variants/>
+                    </item>
+
+                    <item id="jpeg_ext_check">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                        <variants/>
+                    </item>
+
+                    <item id="png_ext_check">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                        <variants/>
+                    </item>  
+
+                    <item id="gif_ext_check">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                        <variants/>
+                    </item>  
+
+                    <item id="webp_ext_check">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                        <variants/>
+                    </item>
+
+                    <item id="ico_ext_check">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                        <variants/>
+                    </item>   
+
+
+                    <item id="setting_size_header">
+                        <type>header</type>
+                    </item>
+                    <item id="file_size_limit">
+                        <type>input</type>
+                        <default_value>3145728</default_value>
+                        <variants/>
+                    </item>
+                </items>
+
+
+            </section>
+
+        </sections>
+    </settings>
+
+</addon>
