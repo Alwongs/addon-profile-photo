@@ -11,4 +11,4 @@
 ### Настройки модуля
 
 
-![Иллюстрация к проекту](https://github.com/alwongs/addon-profile-photo/raw/main/images/settings)
+![Иллюстрация к проекту](https://github.com/alwongs/addon-profile-photo/raw/main/readme-images/settings)
